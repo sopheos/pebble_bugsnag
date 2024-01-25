@@ -1,3 +1,3 @@
-# Pebble/Security
+# Pebble/Bugsnag
 
-Système de securité de sopheos.
+Error handler
